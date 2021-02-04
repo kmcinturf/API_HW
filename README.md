@@ -4,4 +4,4 @@ _________________
 Contains Final_Weather API
 - Three Observations in first line
 
-Vacatipn API
+Vacation API
