@@ -1,3 +1,7 @@
 # API_HW
-HW_WeaterPy and VacationPy
 This is my API HW
+_________________
+Contains Final_Weather API
+- Three Observations in first line
+
+Vacatipn API
